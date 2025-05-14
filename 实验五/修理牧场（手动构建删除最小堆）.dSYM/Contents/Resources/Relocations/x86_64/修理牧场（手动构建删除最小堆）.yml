@@ -1,0 +1,13 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     "/Users/apple/Desktop/数据结构实验/实验五/修理牧场（手动构建删除最小堆）"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z4swapRiS_, symObjAddr: 0x0, symBinAddr: 0x100000C40, symSize: 0x30 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _minHeap, symObjAddr: 0x6250, symBinAddr: 0x100002000, symSize: 0x0 }
+  - { offsetInCU: 0x2E53, offset: 0x2E53, size: 0x8, addend: 0x0, symName: __Z4swapRiS_, symObjAddr: 0x0, symBinAddr: 0x100000C40, symSize: 0x30 }
+  - { offsetInCU: 0x2E97, offset: 0x2E97, size: 0x8, addend: 0x0, symName: __Z6heapUpi, symObjAddr: 0x30, symBinAddr: 0x100000C70, symSize: 0x90 }
+  - { offsetInCU: 0x2EDB, offset: 0x2EDB, size: 0x8, addend: 0x0, symName: __Z8heapDownii, symObjAddr: 0xC0, symBinAddr: 0x100000D00, symSize: 0xE0 }
+  - { offsetInCU: 0x2F49, offset: 0x2F49, size: 0x8, addend: 0x0, symName: __Z6insertPii, symObjAddr: 0x1A0, symBinAddr: 0x100000DE0, symSize: 0x60 }
+  - { offsetInCU: 0x2F7F, offset: 0x2F7F, size: 0x8, addend: 0x0, symName: __Z3popPi, symObjAddr: 0x200, symBinAddr: 0x100000E40, symSize: 0x80 }
+  - { offsetInCU: 0x2FB9, offset: 0x2FB9, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x280, symBinAddr: 0x100000EC0, symSize: 0xDC }
+...

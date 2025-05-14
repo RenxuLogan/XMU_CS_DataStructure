@@ -1,0 +1,8 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     "/Users/apple/Desktop/数据结构实验/复习/二分查找"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000E70, symSize: 0x129 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _a, symObjAddr: 0x5960, symBinAddr: 0x100002000, symSize: 0x0 }
+  - { offsetInCU: 0x2E43, offset: 0x2E43, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000E70, symSize: 0x129 }
+...

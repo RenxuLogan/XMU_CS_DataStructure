@@ -1,0 +1,14 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     "/Users/apple/Desktop/数据结构实验/复习/公路村村通"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z4Primi, symObjAddr: 0x0, symBinAddr: 0x100000B60, symSize: 0x220 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _graph, symObjAddr: 0x64B0, symBinAddr: 0x100002000, symSize: 0x0 }
+  - { offsetInCU: 0x76, offset: 0x76, size: 0x8, addend: 0x0, symName: _dist, symObjAddr: 0x3E0A60, symBinAddr: 0x1003DC5B0, symSize: 0x0 }
+  - { offsetInCU: 0x98, offset: 0x98, size: 0x8, addend: 0x0, symName: _visited, symObjAddr: 0x3E1A20, symBinAddr: 0x1003DD570, symSize: 0x0 }
+  - { offsetInCU: 0xBA8, offset: 0xBA8, size: 0x8, addend: 0x0, symName: __ZNSt3__13minB8ue170006IiEERKT_S3_S3_, symObjAddr: 0x220, symBinAddr: 0x100000D80, symSize: 0x30 }
+  - { offsetInCU: 0xBEB, offset: 0xBEB, size: 0x8, addend: 0x0, symName: __ZNSt3__13minB8ue170006IiNS_6__lessIvvEEEERKT_S5_S5_T0_, symObjAddr: 0x3B0, symBinAddr: 0x100000F10, symSize: 0x50 }
+  - { offsetInCU: 0x2F61, offset: 0x2F61, size: 0x8, addend: 0x0, symName: __Z4Primi, symObjAddr: 0x0, symBinAddr: 0x100000B60, symSize: 0x220 }
+  - { offsetInCU: 0x3035, offset: 0x3035, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x250, symBinAddr: 0x100000DB0, symSize: 0x160 }
+  - { offsetInCU: 0x30FD, offset: 0x30FD, size: 0x8, addend: 0x0, symName: __ZNKSt3__16__lessIvvEclB8ue170006IiiEEbRKT_RKT0_, symObjAddr: 0x400, symBinAddr: 0x100000F60, symSize: 0x26 }
+...

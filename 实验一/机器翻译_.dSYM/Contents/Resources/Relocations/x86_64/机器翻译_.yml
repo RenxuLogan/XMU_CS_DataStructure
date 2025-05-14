@@ -1,0 +1,14 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     "/Users/apple/Desktop/数据结构实验/机器翻译_"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000C30, symSize: 0x1C0 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _n, symObjAddr: 0x13FAC, symBinAddr: 0x100002000, symSize: 0x0 }
+  - { offsetInCU: 0x5B, offset: 0x5B, size: 0x8, addend: 0x0, symName: _m, symObjAddr: 0x13FB0, symBinAddr: 0x100002004, symSize: 0x0 }
+  - { offsetInCU: 0x468E, offset: 0x468E, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0x1E0, symBinAddr: 0x100000E10, symSize: 0x50 }
+  - { offsetInCU: 0x46CE, offset: 0x46CE, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB8ue170006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x2B0, symBinAddr: 0x100000EE0, symSize: 0x30 }
+  - { offsetInCU: 0x7170, offset: 0x7170, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000C30, symSize: 0x1C0 }
+  - { offsetInCU: 0x72C3, offset: 0x72C3, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB8ue170006EPFRS3_S4_E, symObjAddr: 0x1C0, symBinAddr: 0x100000DF0, symSize: 0x20 }
+  - { offsetInCU: 0x72F5, offset: 0x72F5, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB8ue170006Ec, symObjAddr: 0x230, symBinAddr: 0x100000E60, symSize: 0x80 }
+  - { offsetInCU: 0x7361, offset: 0x7361, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB8ue170006Ec, symObjAddr: 0x2E0, symBinAddr: 0x100000F10, symSize: 0x2B }
+...
